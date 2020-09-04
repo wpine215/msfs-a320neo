@@ -5,4 +5,4 @@ The A32NX Project is a community driven open source project to create a free Air
 
 ## IMPORTANT
 
-The repository is currently being moved, check back in a few minutes for the updated link!
+The repository has relocated to https://github.com/flybywiresim/a32nx
